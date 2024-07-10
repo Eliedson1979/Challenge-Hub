@@ -1,8 +1,7 @@
-# (NOME DO PROJETO)
+# CHALLENGE HUB
 
-![Preview Projeto](./imgs/preview.png)
 
-## Acesse o projeto clicando <a href="">AQUI</a>
+## Acesse o projeto clicando <a href="https://github.com/Eliedson1979/Challenge-Hub">AQUI</a>
 
 <br />
 
@@ -23,55 +22,11 @@ Nesse projeto desenvolvemos uma aplicação para controle de gastos. Colocamos e
 ### 1 - Clone o repositório:
 
 ```
-git clone 
+git clone https://github.com/Eliedson1979/Challenge-Hub
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
 
 ```sh
-cd wallet
+cd Challenge-Hub
 ```
-
-### 3 - Dentro da pasta do projeto, execute o comando abaixo para instalar as dependências do projeto:
-
-Caso utilize o npm:
-
-```sh
-npm install
-```
-
-Caso utilize o yarn:
-
-```sh
-yarn install
-```
-
-### 4 - Dentro da pasta do projeto, execute o comando abaixo para iniciar o servidor do projeto:
-
-Caso utilize o npm:
-
-```sh
-npm start
-```
-
-Caso utilize o yarn:
-
-```sh
-yarn start
-```
-
-### 5 - Acesse a aplicação:
-
-Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navegador.
-
-  </details>
-<br />
-
-## ⚙️ Tecnologias
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* React Router
-* Redux
